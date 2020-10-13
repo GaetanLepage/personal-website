@@ -15,6 +15,8 @@ pygmentscodefencesguesssyntax = true
 
 googleAnalytics = ""
 
+rssLimit = 15
+
 [taxonomies]
 	tag = "tags"
 	category = "categories"
@@ -49,7 +51,7 @@ googleAnalytics = ""
 	#favicon = true
 
 	# Add list of sections that should show up on the homepage
-        mainSections = ["post"]
+    mainSections = ["post"]
 
 	# Add list of Sections/Types that should no be considered by RSS
 	#nofeedSections = ["post"]
@@ -97,7 +99,7 @@ weight = 2
 
 [[menu.main]]
 name = "Curriculum"
-url = "/cv/cv"
+url = "/cv"
 weight = 4
 
 [[menu.main]]
@@ -111,6 +113,11 @@ url = "/foss"
 weight = 6
 
 # Social Menu
+[[params.social]]
+name = "ORC-ID"
+icon = "fab fa-orcid"
+url = "https://orcid.org/0000-0002-5134-7763"
+
 [[params.social]]
 name = "Github"
 icon = "fab fa-github"

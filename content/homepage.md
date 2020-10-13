@@ -12,8 +12,8 @@ My name is Gaétan Lepage and I am a Phd student at [Inria Grenoble Perception t
 ### Contact
 
 * **email:** [gaetan.lepage@inria.fr](mailto:gaetan.lepage@inria.fr)
-* **adress:**\
-    Gaétan Lepage\
+* **address:**\
+    Gaétan Lepage - PERCEPTION\
     Centre de recherche Inria Grenoble Rhône-Alpes\
     Inovallée\
     655 Avenue de l’Europe - CS 90051\
