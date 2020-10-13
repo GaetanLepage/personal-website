@@ -6,4 +6,4 @@ author = "Gaétan Lepage"
 +++
 
 
-Here is my CV: [cv.pdf](cv.pdf)
+Here is my CV: [cv.pdf](/cv.pdf)

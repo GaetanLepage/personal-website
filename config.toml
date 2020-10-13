@@ -97,7 +97,7 @@ weight = 2
 
 [[menu.main]]
 name = "Curriculum"
-url = "/cv"
+url = "/cv/cv"
 weight = 4
 
 [[menu.main]]

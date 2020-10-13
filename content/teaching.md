@@ -6,6 +6,8 @@ author = "Gaétan Lepage"
 +++
 
 
-### CompFigSep
-Bases de la programmation impérative.
-1A Ensimag
+### **Bases de la programmation impérative** (1A Ensimag)
+
+Python programming lab sessions for 1st year engineering students.
+
+Link to the course web page (*restricted access*): [bpi-etu.pages.ensimag.fr](https://bpi-etu.pages.ensimag.fr)
