@@ -9,13 +9,18 @@ Hi !
 
 My name is Gaétan Lepage and I am a Phd student at [Inria Grenoble Perception team](https://team.inria.fr/perception/).
 
+### Research interests
+
+* Deep Learning
+* Reinforcement Learning
+* Robotics
+
 ### Contact
 
 * **email:** [gaetan.lepage@inria.fr](mailto:gaetan.lepage@inria.fr)
 * **address:**\
     Gaétan Lepage - PERCEPTION\
-    Centre de recherche Inria Grenoble Rhône-Alpes\
-    Inovallée\
-    655 Avenue de l’Europe - CS 90051\
+    Inria Grenoble Rhône-Alpes\
+    655 Avenue de l’Europe\
     38334 Montbonnot Cedex
 * **office:** H213
