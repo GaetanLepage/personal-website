@@ -41,7 +41,7 @@ ___
 #### [Apr. - Aug. 2020] - **Research Intern** (*HES-SO Valais-Wallis - [MedGIFT team](http://medgift.hevs.ch/)*, Sierre, Valais, SWITZERLAND)
 
 I worked under the supervision of Dr. Henning Müller and Dr. Manfredo Atzori (MedGIFT team) on a computer vision problem with medical applications.
-The task is part of the european ExaMode project (https://www.examode.eu/).
+The task is part of the european [ExaMode project](https://www.examode.eu/).
 
 My goal was to handle the segmentation of compound figures (figures involving multiple sub-figures) from medical publications.
 To achieve this, I investigated deep learning state of the art models and adapted them to this problem.

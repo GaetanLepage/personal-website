@@ -7,6 +7,19 @@ author = "Gaétan Lepage"
 
 ### Compound Figure Separation (HES-SO Valais Wallis)
 
+
+
+I worked under the supervision of Dr. Henning Müller and Dr. Manfredo Atzori (MedGIFT team) on a computer vision problem with medical applications.
+The task is part of the european [ExaMode project](https://www.examode.eu/).
+
+<!--TODO: add photo-->
+
+My goal was to handle the segmentation of compound figures (figures involving multiple sub-figures) from medical publications.
+To achieve this, I investigated deep learning state of the art models and adapted them to this problem.
+
+**Supervisors:** [Dr. Henning Müller](http://medgift.hevs.ch/wordpress/team/henning-mueller/) and [Dr. Manfredo Atzori](http://medgift.hevs.ch/wordpress/team/manfredo-atzori/)\
+**Software:** https://github.com/GaetanLepage/compound-figure-separator
+
 ___
 
 ### Deep RL for Human-Robots interactions (Inria Grenoble Alpes)

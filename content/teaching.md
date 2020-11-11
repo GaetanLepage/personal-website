@@ -6,7 +6,7 @@ author = "Gaétan Lepage"
 +++
 
 
-### **Bases de la programmation impérative** (1A Ensimag)
+### [2020-2021] **Bases de la programmation impérative** (1A Ensimag)
 
 Python programming lab sessions for 1st year engineering students.
 
