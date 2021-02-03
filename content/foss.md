@@ -17,7 +17,7 @@ I try to use FOSS as much as possible and to rely on proprietary software when I
 * **Window manager**:...............................[i3-gaps](https://github.com/Airblader/i3)
 * **Text editor**:............................................[Neovim](https://neovim.io/)
 * **PDF viewer**:...........................................[Zathura](https://pwmt.org/projects/zathura/)
-* **Scientific literature managemer**:..[Zotero](https://www.zotero.org/)
+* **Scientific literature manager**:.........[Zotero](https://www.zotero.org/)
 * **Mail client**:.............................................[Thunderbird](https://www.thunderbird.net/en-US/)
 * **Private messaging**:............................[Signal](https://www.signal.org/)
 * **Video conferencing**:..........................[Jitsi meet](https://meet.jit.si/)
