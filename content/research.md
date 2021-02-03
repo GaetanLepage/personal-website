@@ -1,5 +1,5 @@
 +++
-title = "Research projects"
+title = "🔬 Research projects"
 description = "Research"
 aliases = ["research"]
 author = "Gaétan Lepage"

@@ -1,5 +1,5 @@
 +++
-title = "Software"
+title = "⌨️ Software"
 description = "Software"
 aliases = ["software"]
 author = "Gaétan Lepage"

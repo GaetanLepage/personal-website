@@ -1,5 +1,5 @@
 +++
-title = "Curriculum vitae"
+title = "🎓 Curriculum vitae"
 description = "Homepage"
 aliases = ["homepage"]
 author = "Gaétan Lepage"

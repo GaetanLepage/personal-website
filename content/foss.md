@@ -1,5 +1,5 @@
 +++
-title = "Free and Open Source Software"
+title = "🐧 Free and Open Source Software"
 description = "Free and Open Source Software"
 aliases = ["foss"]
 author = "Gaétan Lepage"

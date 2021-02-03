@@ -1,5 +1,5 @@
 +++
-title = "Teaching"
+title = "🧑‍🏫 Teaching"
 description = "Teaching"
 aliases = ["teaching"]
 author = "Gaétan Lepage"
