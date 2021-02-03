@@ -14,7 +14,7 @@ I try to use FOSS as much as possible and to rely on proprietary software when I
 
 * **Operating system**:..............................[Arch Linux](https://www.archlinux.org/)
 * **Web browser**:........................................[Firefox](https://www.mozilla.org/en-US/firefox/new/)
-* **Window manager**:...............................[i3-gaps](https://github.com/Airblader/i3)
+* **Window manager**:...............................[BSPWM](https://github.com/baskerville/bspwm)
 * **Text editor**:............................................[Neovim](https://neovim.io/)
 * **PDF viewer**:...........................................[Zathura](https://pwmt.org/projects/zathura/)
 * **Scientific literature manager**:.........[Zotero](https://www.zotero.org/)
