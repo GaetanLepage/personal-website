@@ -10,4 +10,4 @@ author = "Gaétan Lepage"
 
 Python programming lab sessions for 1st year engineering students.
 
-Link to the course web page (*restricted access*): [bpi-etu.pages.ensimag.fr](https://bpi-etu.pages.ensimag.fr)
+Link to the course web page: [bpi-etu.pages.ensimag.fr](https://bpi-etu.pages.ensimag.fr)
