@@ -28,5 +28,3 @@ I try to use FOSS as much as possible and to rely on proprietary software when I
 * [Free Software Foundation (FSF)](https://www.fsf.org/)
 * [Suckless software](https://suckless.org/philosophy/)
 * [My dotfiles](https://github.com/GaetanLepage/dotfiles)
-
-{{< figure src="/img/meme_linux.png" width=400 >}}
