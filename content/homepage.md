@@ -7,11 +7,8 @@ author = "Gaétan Lepage"
 
 Hi !
 
-My name is Gaétan Lepage and I am a Phd student at [Inria Grenoble Perception team](https://team.inria.fr/perception/).
-
-<!--{{< figure src="/img/inria_logo.png" width=200 link=https://inria.fr class=alignleft >}}-->
-<!--![[/img/inria_logo.png][https://inria.fr]]-->
-<!--![Great alpaca picture](https://upload.wikimedia.org/wikipedia/commons/c/c4/Alpaka_33444.jpg)-->
+My name is Gaétan Lepage and I am a Phd student at [Inria Grenoble Perception team](https://team.inria.fr/perception/). \
+I investigate the use of **deep reinforcement learning** to enhance human-robot interactions.
 
 ### Research interests
 

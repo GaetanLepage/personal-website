@@ -14,7 +14,7 @@ author = "Gaétan Lepage"
 #### [Oct. 2020 - *now* ] - **PhD Student** (*INRIA - [Perception team](https://team.inria.fr/perception/)*, Grenoble, FRANCE)
 
 Deep Probabilistic Reinforcement Learning for Audio-Visual Human-Robot Interaction.\
-**Supervisors:** [Xavier Alameda-Pineda](http://xavirema.eu/), [Radu Patrice Horaud](https://team.inria.fr/perception/team-members/radu-patrice-horaud/) and [Laurent Girin](http://www.gipsa-lab.grenoble-inp.fr/~laurent.girin/)
+**Supervisors:** [Xavier Alameda-Pineda](http://xavirema.eu/), [Laurent Girin](http://www.gipsa-lab.grenoble-inp.fr/~laurent.girin/) and [Chris Reinke](https://www.scirei.net/)
 ___
 
 #### [2019 - 2020] - **Master of Science** (*Université Grenoble Alpes*, Grenoble, FRANCE)
