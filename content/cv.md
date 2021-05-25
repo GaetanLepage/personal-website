@@ -25,7 +25,7 @@ ___
 
 #### [2017 - 2020] - **Master of Engineering / _Diplôme d'Ingénieur_** (*Grenoble INP - Ensimag*, Grenoble, FRANCE)
 
-National School of Computer Science and Applied Mathematics of Grenoble.\
+National School of Computer Science and Applied Mathematics.\
 **Track:** Mathematical Modeling, Image and Simulation.
 ___
 
