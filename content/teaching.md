@@ -11,7 +11,7 @@ author = "Gaétan Lepage"
 Mentoring for a software development project for 1st year engineering students.\
 It consists in implementing a GUI library in C.
 
-Link to the course web page: [formationc.pages.ensimag.fr](https://formationc.pages.ensimag.fr/prepa/prof/)
+Link to the project web page: [Projet C - IG](http://brouet.imag.fr/fberard/ProjetCLL/ProjetC)
 
 ___
 

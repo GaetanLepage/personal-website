@@ -31,8 +31,7 @@ ___
 
 #### [2015 - 2017] - **Classe Préparatoire aux Grandes Ecoles** (*Lycée La Martinière Monplaisir*, Lyon, FRANCE)
 
-Mathematics and Physics courses in leading French University preparatory program for
-scientific studies highly competitive entry exams.\
+Highly selective training for enrollment in French engineering schools.\
 **Track:** PTSI - PT*
 ___
 
