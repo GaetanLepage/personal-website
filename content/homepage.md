@@ -7,7 +7,10 @@ author = "Gaétan Lepage"
 
 Hi !
 
-My name is Gaétan Lepage and I am a Phd student at [Inria Grenoble Perception team](https://team.inria.fr/perception/). \
+My name is Gaétan Lepage and I am a Phd student at
+[Inria Grenoble](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes)
+[RobotLearn team](https://team.inria.fr/robotlearn/)
+(former [Perception](https://team.inria.fr/perception/)).\
 I investigate the use of **deep reinforcement learning** to enhance human-robot interactions.
 
 ### Research interests
@@ -25,3 +28,5 @@ I investigate the use of **deep reinforcement learning** to enhance human-robot 
     655 Avenue de l’Europe\
     38334 Montbonnot Cedex
 * **office:** H213
+
+ <!-- {{< figure src="/img/inria_logo.png" width=200 class="alignleft" >}} -->

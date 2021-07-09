@@ -7,7 +7,9 @@ author = "Gaétan Lepage"
 
 ### Deep RL for Human-Robots interactions (Inria Grenoble Alpes)
 
-I am currently working within the [Perception team](https://team.inria.fr/perception/) from [Inria Grenoble](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes).\
+I am currently working within the [RobotLearn team](https://team.inria.fr/robotlearn/)
+(former [Perception](https://team.inria.fr/perception/))
+from [Inria Grenoble](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes).\
 I am doing my PhD under the supervision of [Xavier Alameda-Pineda](http://xavirema.eu/), [Laurent Girin](http://www.gipsa-lab.grenoble-inp.fr/~laurent.girin/) and [Chris Reinke](https://www.scirei.net/).\
 My PhD project is part of the european [SPRING project](https://spring-h2020.eu/).
 
