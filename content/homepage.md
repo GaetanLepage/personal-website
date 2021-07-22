@@ -29,4 +29,5 @@ I investigate the use of **deep reinforcement learning** to enhance human-robot 
     38334 Montbonnot Cedex
 * **office:** H213
 
- <!-- {{< figure src="/img/inria_logo.png" width=200 class="alignleft" >}} -->
+{{< figure src="/img/inria_logo.png" width=100 class=alignleft >}}
+{{< figure src="/img/robotlearn_logo.png" width=100 class=alignleft >}}
