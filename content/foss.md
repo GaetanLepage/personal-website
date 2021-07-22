@@ -12,16 +12,19 @@ I try to use FOSS as much as possible and to rely on proprietary software when I
 
 ### Software I use
 
-* **Operating system**:..............................[Arch Linux](https://www.archlinux.org/)
-* **Web browser**:........................................[Firefox](https://www.mozilla.org/en-US/firefox/new/)
-* **Window manager**:...............................[bspwm](https://github.com/baskerville/bspwm#description) (I was previously using [i3-gaps](https://github.com/Airblader/i3#i3-gaps))
-* **Text editor**:............................................[Neovim](https://neovim.io/)
-* **PDF viewer**:...........................................[Zathura](https://pwmt.org/projects/zathura/)
-* **Scientific literature manager**:.........[Zotero](https://www.zotero.org/)
-* **Mail client**:.............................................[Thunderbird](https://www.thunderbird.net/en-US/)
-* **Private messaging**:............................[Signal](https://www.signal.org/) & [Matrix](https://matrix.org/)
-* **Video conferencing**:..........................[Jitsi meet](https://meet.jit.si/)
-* **Phone ROM**:..........................................[Lineage OS](https://lineageos.org/) (without gapps)
+
+| Program                       | Name                                                              |
+| :---------------------------- | :---------------------------------------------------------------- |
+| Linux Distribution            | [Arch Linux](https://www.archlinux.org/)                          |
+| Web Browser                   | [Firefox](https://www.mozilla.org/en-US/firefox/new/)             |
+| Window Manager                | [bspwm](https://github.com/baskerville/bspwm) (I was previously using [i3-gaps](https://github.com/Airblader/i3#i3-gaps))                     |
+| Code Editor                   | [Neovim](https://neovim.io/)                                      |
+| PDF viewer                    | [Zathura](https://pwmt.org/projects/zathura/)                     |
+| Scientific literature manager | [Zotero](https://www.zotero.org/)                                 |
+| Mail client                   | [Thunderbird](https://www.thunderbird.net/en-US/)                 |
+| Private messaging             | [Signal](https://www.signal.org/) & [Matrix](https://matrix.org/) |
+| Video conferencing            | [Jitsi meet](https://meet.jit.si/)                                |
+| Phone ROM                     | [Lineage OS](https://lineageos.org/) (without gapps)              |
 
 ### Resources
 
