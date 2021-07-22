@@ -41,6 +41,8 @@ rssLimit = 15
 	# Activate to show authors on pages if available
 	#listAuthor = true
 
+    hideAuthor = true
+
 	# Add math typesetting with KaTeX (Global with this Param)
 	math = true
 
