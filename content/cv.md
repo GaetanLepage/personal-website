@@ -6,12 +6,12 @@ author = "Gaétan Lepage"
 +++
 
 
-**Here is my CV:** [cv.pdf](/cv_gaetan_lepage.pdf)
+**PDF version:** [cv.pdf](/cv_gaetan_lepage.pdf)
 
 
 ### Education
 
-#### [Oct. 2020 - *now* ] - **PhD Student** (*INRIA - [RobotLearn team](https://team.inria.fr/robotlearn/) (former [Perception](https://team.inria.fr/perception/))*, Grenoble, FRANCE)
+#### [Oct. 2020 - *now* ] - **PhD Student** (*INRIA - [RobotLearn team](https://team.inria.fr/robotlearn/) [former [Perception](https://team.inria.fr/perception/)]*, Grenoble, FRANCE)
 
 Deep Probabilistic Reinforcement Learning for Audio-Visual Human-Robot Interaction.\
 **Supervisors:** [Xavier Alameda-Pineda](http://xavirema.eu/), [Laurent Girin](http://www.gipsa-lab.grenoble-inp.fr/~laurent.girin/) and [Chris Reinke](https://www.scirei.net/)
