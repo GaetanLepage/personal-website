@@ -17,7 +17,8 @@ It eases the use of the clusters and other computing infrastructures.
 
 Unfortunately, this project cannot be shared to people outside from Inria as it might expose
 internal IT organization.\
-https://gitlab.inria.fr/galepage/remi
+[[Documentation]](https://remote-inria.gitlabpages.inria.fr/)
+[[Code]](https://gitlab.inria.fr/remote-inria/remi)
 
 <!-- ### EnsiBot -->
 <!-- Reinforcement learning CSGO (Counter Strike Global Offensive) aimbot.\ -->
