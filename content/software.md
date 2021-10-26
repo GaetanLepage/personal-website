@@ -14,9 +14,8 @@ https://github.com/GaetanLepage/compound-figure-separator
 **Remote Inria** is a tool I wrote for the researchers at
 [Inria](https://www.inria.fr/en).\
 It eases the use of the clusters and other computing infrastructures.
-
-Unfortunately, this project cannot be shared to people outside from Inria as it might expose
-internal IT organization.\
+<!-- Unfortunately, this project cannot be shared to people outside from Inria as it might expose
+internal IT organization. -->
 [[Documentation]](https://remote-inria.gitlabpages.inria.fr/)
 [[Code]](https://gitlab.inria.fr/remote-inria/remi)
 
