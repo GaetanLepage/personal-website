@@ -136,6 +136,11 @@ icon = "fas fa-envelope"
 cmd = "mailto:gaetan.lepage@inria.fr"
 
 [[params.social]]
+name = "Twitter"
+icon = "fab fa-twitter"
+url = "https://twitter.com/GaetanLepage_"
+
+[[params.social]]
 name = "LinkedIn"
 icon = "fab fa-linkedin"
 url = "https://www.linkedin.com/in/ga%C3%A9tan-lepage-63557b74/"
