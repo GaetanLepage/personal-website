@@ -26,8 +26,8 @@ author = "Gaétan Lepage"
 
 Teaching assistant in statistics
 
-Link to the course web page:
-[chamilo.grenoble-inp.fr/courses/ENSIMAG3MMPMS/](https://chamilo.grenoble-inp.fr/courses/ENSIMAG3MMPMS/)
+_Link to the course web page:_
+[_chamilo.grenoble-inp.fr/courses/ENSIMAG3MMPMS/_](https://chamilo.grenoble-inp.fr/courses/ENSIMAG3MMPMS/)
 
 ___
 
@@ -35,8 +35,8 @@ ___
 
 Teaching assistant in applied probabilities
 
-Link to the course web page:
-[proba.pages.ensimag.fr](https://proba.pages.ensimag.fr)
+_Link to the course web page:_
+[_proba.pages.ensimag.fr_](https://proba.pages.ensimag.fr)
 
 ___
 
@@ -45,8 +45,8 @@ ___
 Mentoring for a software development project for 1st year engineering students.\
 It consists in implementing a GUI library in C.
 
-Link to the project web page:
-[Projet C - IG](http://brouet.imag.fr/fberard/ProjetCLL/ProjetC)
+_Link to the course web page:_
+[_Projet C - IG_](http://brouet.imag.fr/fberard/ProjetCLL/ProjetC)
 
 ___
 
@@ -54,5 +54,5 @@ ___
 
 Python programming lab sessions for 1st year engineering students.
 
-Link to the course web page:
-[bpi-etu.pages.ensimag.fr](https://bpi-etu.pages.ensimag.fr)
+_Link to the course web page:_
+[_bpi-etu.pages.ensimag.fr_](https://bpi-etu.pages.ensimag.fr)
