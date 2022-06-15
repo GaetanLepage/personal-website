@@ -24,7 +24,7 @@ I try to use FOSS as much as possible and to rely on proprietary software when I
 | Mail client                   | [Thunderbird](https://www.thunderbird.net/en-US/)                                                                 |
 | Private messaging             | [Signal](https://www.signal.org/) & [Matrix](https://matrix.org/)                                                 |
 | Video conferencing            | [Jitsi meet](https://meet.jit.si/)                                                                                |
-| Phone ROM                     | [Lineage OS](https://lineageos.org/) (with [MicroG](https://microg.org/))                                                              |
+| Phone ROM                     | [Lineage OS](https://lineageos.org/) (with [MicroG](https://microg.org/))                                         |
 
 ### Resources
 
