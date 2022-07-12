@@ -15,10 +15,10 @@ I try to use FOSS as much as possible and to rely on proprietary software when I
 
 | Program                       | Name                                                                                                              |
 | :---------------------------- | :-----------------------------------------------------------------------------------------------------------------|
-| Linux Distribution            | [NixOS](https://nixos.org/) (previously [Arch Linux](https://www.archlinux.org/))                                 |
-| Web Browser                   | [Firefox](https://www.mozilla.org/en-US/firefox/new/)                                                             |
-| Window Manager                | [bspwm](https://github.com/baskerville/bspwm) (previously [i3-gaps](https://github.com/Airblader/i3#i3-gaps))     |
-| Code Editor                   | [Neovim](https://neovim.io/)                                                                                      |
+| Linux distribution            | [NixOS](https://nixos.org/) (previously [Arch Linux](https://www.archlinux.org/))                                 |
+| Web browser                   | [Firefox](https://www.mozilla.org/en-US/firefox/new/)                                                             |
+| Window manager                | [bspwm](https://github.com/baskerville/bspwm) (previously [i3-gaps](https://github.com/Airblader/i3#i3-gaps))     |
+| Code editor                   | [Neovim](https://neovim.io/)                                                                                      |
 | PDF viewer                    | [Zathura](https://pwmt.org/projects/zathura/)                                                                     |
 | Scientific literature manager | [Zotero](https://www.zotero.org/)                                                                                 |
 | Mail client                   | [Thunderbird](https://www.thunderbird.net/en-US/)                                                                 |
