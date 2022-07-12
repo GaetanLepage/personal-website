@@ -42,7 +42,7 @@ ___
 
 #### [2021] **Projet logiciel en C**
 
-Mentoring for a software development project for 1st year engineering students.\
+Mentoring for a software development project.\
 It consists in implementing a GUI library in C.
 
 _Link to the course web page:_
@@ -52,7 +52,7 @@ ___
 
 #### [2020-2021] **Bases de la programmation impérative**
 
-Python programming lab sessions for 1st year engineering students.
+Python programming lab sessions.
 
 _Link to the course web page:_
 [_bpi-etu.pages.ensimag.fr_](https://bpi-etu.pages.ensimag.fr)
