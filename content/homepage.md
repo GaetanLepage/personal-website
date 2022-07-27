@@ -23,7 +23,7 @@ I investigate the use of **deep reinforcement learning** to enhance human-robot 
 
 * **email:** [gaetan.lepage@inria.fr](mailto:gaetan.lepage@inria.fr)
 * **address:**\
-    Gaétan Lepage - Robot Learn\
+    Gaétan Lepage - RobotLearn\
     Inria Grenoble Rhône-Alpes\
     655 Avenue de l’Europe\
     38334 Montbonnot Cedex
