@@ -29,4 +29,5 @@ My goal was to handle the segmentation of compound figures (figures involving mu
 To achieve this, I investigated deep learning state of the art models and adapted them to this problem.
 
 **Supervisors:** [Dr. Henning Müller](http://medgift.hevs.ch/wordpress/team/henning-mueller/) and [Dr. Manfredo Atzori](http://medgift.hevs.ch/wordpress/team/manfredo-atzori/)\
+**Manuscript:** [msc_gaetan_lepage_compfigsep.pdf](/msc_gaetan_lepage_compfigsep.pdf)\
 **Software:** https://github.com/GaetanLepage/compound-figure-separator
