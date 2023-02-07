@@ -26,7 +26,7 @@ I investigate the use of **deep reinforcement learning** to enhance human-robot 
     Gaétan Lepage - RobotLearn\
     Inria Grenoble Rhône-Alpes\
     655 Avenue de l’Europe\
-    38334 Montbonnot Cedex
+    38334 Montbonnot
 * **office:** H213
 
 {{< figure src="/img/inria_logo.png" height=100 class=alignleft link="https://www.inria.fr/en" >}}
