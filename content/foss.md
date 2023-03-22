@@ -15,16 +15,16 @@ I try to use FOSS as much as possible and to rely on proprietary software when I
 
 | Program                       | Name                                                                                                              |
 | :---------------------------- | :-----------------------------------------------------------------------------------------------------------------|
-| Linux distribution            | [NixOS](https://nixos.org/) (previously [Arch Linux](https://www.archlinux.org/))                                 |
-| Web browser                   | [Firefox](https://www.mozilla.org/en-US/firefox/new/)                                                             |
-| Window manager                | [bspwm](https://github.com/baskerville/bspwm) (previously [i3-gaps](https://github.com/Airblader/i3#i3-gaps))     |
-| Code editor                   | [Neovim](https://neovim.io/)                                                                                      |
-| PDF viewer                    | [Zathura](https://pwmt.org/projects/zathura/)                                                                     |
-| Scientific literature manager | [Zotero](https://www.zotero.org/)                                                                                 |
-| Mail client                   | [Thunderbird](https://www.thunderbird.net/en-US/)                                                                 |
-| Private messaging             | [Signal](https://www.signal.org/) & [Matrix](https://matrix.org/)                                                 |
-| Video conferencing            | [Jitsi meet](https://meet.jit.si/)                                                                                |
-| Phone ROM                     | [Lineage OS](https://lineageos.org/) (with [MicroG](https://microg.org/))                                         |
+| Linux distribution            | [NixOS](https://nixos.org) (previously [Arch Linux](https://www.archlinux.org))                                   |
+| Web browser                   | [Firefox](https://www.mozilla.org/en-US/firefox/new)                                                              |
+| Window manager                | [bspwm](https://github.com/baskerville/bspwm) (previously [i3wm](https://i3wm.org/))                              |
+| Code editor                   | [Neovim](https://neovim.io)                                                                                       |
+| PDF viewer                    | [Zathura](https://pwmt.org/projects/zathura)                                                                      |
+| Scientific literature manager | [Zotero](https://www.zotero.org)                                                                                  |
+| Mail client                   | [Thunderbird](https://www.thunderbird.net)                                                                        |
+| Private messaging             | [Signal](https://www.signal.org) & [Matrix](https://matrix.org)                                                   |
+| Video conferencing            | [Jitsi meet](https://meet.jit.si)                                                                                 |
+| Phone ROM                     | [Lineage OS](https://lineageos.org) (with [MicroG](https://microg.org))                                           |
 
 ### Resources
 
