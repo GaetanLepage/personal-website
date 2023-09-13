@@ -1,32 +1,41 @@
 {
-    inputs.nixpkgs.url = github:nixos/nixpkgs/nixos-unstable;
+  inputs.nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
 
-    outputs = { self, nixpkgs }:
-    let
-        system = "x86_64-linux";
-        pkgs = import nixpkgs { inherit system; };
+  outputs = {
+    self,
+    nixpkgs,
+  }: let
+    system = "x86_64-linux";
+    pkgs = import nixpkgs {inherit system;};
+  in {
+    apps.${system} = {
+      default = {
+        type = "app";
+        program = let
+          serve-script = pkgs.writeShellApplication {
+            name = "serve";
+            runtimeInputs = [pkgs.hugo];
+            text = "hugo serve";
+          };
+        in "${serve-script}/bin/serve";
+      };
 
-    in {
-        apps.${system} = let
-            generate = "${pkgs.hugo}/bin/hugo";
+      deploy = {
+        type = "app";
+        program = let
+          deploy-script = pkgs.writeShellApplication {
+            name = "deploy";
+            runtimeInputs = with pkgs; [hugo rsync];
+            text = ''
+              hugo
 
-        in {
-            default = {
-                type = "app";
-                program = toString (pkgs.writeScript "generate" generate);
-            };
-
-            deploy = {
-                type = "app";
-                program = toString (pkgs.writeScript "deploy" ''
-                    set -e
-                    ${generate}
-
-                    ${pkgs.rsync}/bin/rsync -rv --delete \
-                        public/ \
-                        server:/var/www/personal_website/
-                '');
-            };
-        };
+              rsync -rv --delete \
+                public/ \
+                server:/var/www/personal_website/
+            '';
+          };
+        in "${deploy-script}/bin/deploy";
+      };
     };
+  };
 }
