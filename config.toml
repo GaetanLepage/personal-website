@@ -1,156 +1,202 @@
-baseURL = "https://glepage.com/"
-languageCode = "en-us"
+base_url = "https://glepage.com"
 title = "Gaétan Lepage"
+description = "Personal website"
+
+default_language = "en"
+output_dir = "public"
+theme = "abridge"
+
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+generate_feed = false
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+highlight_theme = "css"
+
+render_emoji = true
+external_links_target_blank = true # rel="noopener"
+external_links_no_follow = false   # rel="nofollow"
+external_links_no_referrer = false # rel="noreferrer"
+smart_punctuation = false          # `...` to `…`, `"quote"` to `“curly”` etc
+
+[extra]
+# If set to true then links are generated with the full path. eg https://abridge.netlify.app/index.html
+uglyurls = false
+language_code = "en-US"
+
+# TOC / index
+recent = false
+
+# Put all your custom variables here
 author = "Gaétan Lepage"
-theme = "hugo-vitae"
 
-paginate = 5
-enableRobotsTXT = true
+# Used for the primary site index
+keywords = "Gaetan,Lepage"
 
-copyright = "Copyright © 2023 Gaétan Lepage | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
+# TODO
 
-pygmentsstyle = "colorful"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
+menu = [
+    # {url = "/about/", name = "About", slash = true, blank = false},
+    # {url = "/posts/", name = "Posts", slash = true, blank = false},
+    # {url = "/categories/", name = "Categories", slash = true, blank = false},
+    # {url = "/tags/", name = "Tags", slash = true, blank = false},
+]
+menu_footer = [
+    # {url = "/about/", name = "About", slash = true, blank = false},
+    # {url = "/contact/", name = "Contact", slash = true, blank = false},
+    # {url = "/privacy/", name = "Privacy", slash = true, blank = false},
+    # {url = "/sitemap.xml", name = "Sitemap", slash = false, blank = true},
+]
 
-googleAnalytics = ""
+[extra.social]
+feed = true
+mail_encode = true # This obfuscates your email address, javascript is used to decode it at page load.
 
-rssLimit = 15
+mail = "gaetan.lepage@inria.fr"
+twitter = "GaetanLepage_"
+researchgate = "Gaetan_Lepage2"
+github = "GaetanLepage"
+mastodon = "@glepage@fosstodon.org" # TODO
+#
+# [[params.social]]
+# name = "ORC-ID"
+# icon = "fab fa-orcid"
+# url = "https://orcid.org/0000-0002-5134-7763"
+#
+# [[params.social]]
+# name = "LinkedIn"
+# icon = "fab fa-linkedin"
+# url = "https://www.linkedin.com/in/ga%C3%A9tan-lepage-63557b74/"
+#
+# [[params.social]]
+# name = "Mastodon"
+# icon = "fab fa-mastodon"
+# url = "https://fosstodon.org/@glepage"
+#
+# #[[params.social]]
+# #name = "RSS"
+# #icon = "fas fa-rss"
+# #url = "/index.xml"
 
-[taxonomies]
-	tag = "tags"
-	category = "categories"
-	series = "series"
 
-[params]
-	# Use homepage.md instead of a list of posts
-	homepage = true
 
-	# Add meta keywords in head part (Site Keywords or Tags of Page)
-	keywords = ["Gaetan", "Lepage", "research", "machine learning"]
 
-	# Add meta description in head part
-	description = "Welcome to my personal web page !"
-
-	# Add pagetitle to homepage <title> tag
-	pagetitle = "Homepage"
-
-	# Add a subtitle to your website
-	subtitle = "Welcome to my personal web page !"
-
-	# Activate to show authors on pages if available
-	#listAuthor = true
-
-    hideAuthor = true
-
-	# Add math typesetting with KaTeX (Global with this Param)
-	math = true
-
-	# Optional 80x80 avatar image.
-	avatar = "/img/me.jpg"
-
-	# Optional favicons for website
-	#favicon = true
-
-	# Add list of sections that should show up on the homepage
-    mainSections = ["post"]
-
-	# Add list of Sections/Types that should no be considered by RSS
-	#nofeedSections = ["post"]
-
-	# Deactivate Taxonomies for specific page types
-	#disableTaxoTypes = [""]
-
-	# Custom CSS applied to default styles. (Path could be "static/css/")
-	#customCSS = "css/custom.css"
-
-# Comments
-[params.comments]
-# Enable Comments with "true"
-enabled = false
-
-# Comment provider:
-#   disqus (https://disqus.com)
-#   commento (https://commento.io)
-#engine = "disqus"
-
-# Content types to disable comments on.
-#disableOnTypes = ["page"]
-
-[params.comments.disqus]
-#shortname = "" # Paste the shortname from your Disqus dashboard.
-
-[params.comments.commento]
-#host = "" # Paste the domain of you commento.io system
-
-# Navigation
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "🔬 Research"
-url = "/research"
-weight = 2
-
-[[menu.main]]
-name = "🧑‍🏫 Teaching"
-url = "/teaching"
-weight = 2
-
-[[menu.main]]
-name = "🎓 Curriculum"
-url = "/cv"
-weight = 4
-
-[[menu.main]]
-name = "⌨️  Software"
-url = "/software"
-weight = 5
-
-[[menu.main]]
-name = "🐧 FOSS"
-url = "/foss"
-weight = 6
-
-# Social Menu
-[[params.social]]
-name = "ResearchGate"
-icon = "fab fa-researchgate"
-url = "https://www.researchgate.net/profile/Gaetan_Lepage2"
-
-[[params.social]]
-name = "ORC-ID"
-icon = "fab fa-orcid"
-url = "https://orcid.org/0000-0002-5134-7763"
-
-[[params.social]]
-name = "Github"
-icon = "fab fa-github"
-url = "https://github.com/GaetanLepage"
-
-[[params.social]]
-name = "Email"
-icon = "fas fa-envelope"
-cmd = "mailto:gaetan.lepage@inria.fr"
-
-[[params.social]]
-name = "Twitter"
-icon = "fab fa-twitter"
-url = "https://twitter.com/GaetanLepage_"
-
-[[params.social]]
-name = "LinkedIn"
-icon = "fab fa-linkedin"
-url = "https://www.linkedin.com/in/ga%C3%A9tan-lepage-63557b74/"
-
-[[params.social]]
-name = "Mastodon"
-icon = "fab fa-mastodon"
-url = "https://fosstodon.org/@glepage"
-
-#[[params.social]]
-#name = "RSS"
-#icon = "fas fa-rss"
-#url = "/index.xml"
+# paginate = 5
+# enableRobotsTXT = true
+#
+# copyright = "Copyright © 2023 Gaétan Lepage | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
+#
+# pygmentsstyle = "colorful"
+# pygmentscodefences = true
+# pygmentscodefencesguesssyntax = true
+#
+# googleAnalytics = ""
+#
+# rssLimit = 15
+#
+# [taxonomies]
+# 	tag = "tags"
+# 	category = "categories"
+# 	series = "series"
+#
+# [params]
+# 	# Use homepage.md instead of a list of posts
+# 	homepage = true
+#
+# 	# Add meta keywords in head part (Site Keywords or Tags of Page)
+# 	keywords = ["Gaetan", "Lepage", "research", "machine learning"]
+#
+# 	# Add meta description in head part
+# 	description = "Welcome to my personal web page !"
+#
+# 	# Add pagetitle to homepage <title> tag
+# 	pagetitle = "Homepage"
+#
+# 	# Add a subtitle to your website
+# 	subtitle = "Welcome to my personal web page !"
+#
+# 	# Activate to show authors on pages if available
+# 	#listAuthor = true
+#
+#     hideAuthor = true
+#
+# 	# Add math typesetting with KaTeX (Global with this Param)
+# 	math = true
+#
+# 	# Optional 80x80 avatar image.
+# 	avatar = "/img/me.jpg"
+#
+# 	# Optional favicons for website
+# 	#favicon = true
+#
+# 	# Add list of sections that should show up on the homepage
+#     mainSections = ["post"]
+#
+# 	# Add list of Sections/Types that should no be considered by RSS
+# 	#nofeedSections = ["post"]
+#
+# 	# Deactivate Taxonomies for specific page types
+# 	#disableTaxoTypes = [""]
+#
+# 	# Custom CSS applied to default styles. (Path could be "static/css/")
+# 	#customCSS = "css/custom.css"
+#
+# # Comments
+# [params.comments]
+# # Enable Comments with "true"
+# enabled = false
+#
+# # Comment provider:
+# #   disqus (https://disqus.com)
+# #   commento (https://commento.io)
+# #engine = "disqus"
+#
+# # Content types to disable comments on.
+# #disableOnTypes = ["page"]
+#
+# [params.comments.disqus]
+# #shortname = "" # Paste the shortname from your Disqus dashboard.
+#
+# [params.comments.commento]
+# #host = "" # Paste the domain of you commento.io system
+#
+# # Navigation
+# [[menu.main]]
+# name = "Home"
+# url = "/"
+# weight = 1
+#
+# [[menu.main]]
+# name = "🔬 Research"
+# url = "/research"
+# weight = 2
+#
+# [[menu.main]]
+# name = "🧑‍🏫 Teaching"
+# url = "/teaching"
+# weight = 2
+#
+# [[menu.main]]
+# name = "🎓 Curriculum"
+# url = "/cv"
+# weight = 4
+#
+# [[menu.main]]
+# name = "⌨️  Software"
+# url = "/software"
+# weight = 5
+#
+# [[menu.main]]
+# name = "🐧 FOSS"
+# url = "/foss"
+# weight = 6
+#

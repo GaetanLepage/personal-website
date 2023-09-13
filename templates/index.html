@@ -1,0 +1,39 @@
+{#
+This Page Shows the Posts with a short summary on the index: example.com/
+This Template can also be used as the rendering template for Sections, eg: example.com/blog/  example.com/software/
+#}
+
+{%- extends "base.html" %}
+{%- set uglyurls = config.extra.uglyurls | default(value=false) -%}
+{%- if config.extra.offline %}{% set uglyurls = true %}{% endif %}
+
+{%- block seo %}
+  {{- super() }}
+
+  {%- if config.title %}
+    {%- set title = config.title %}
+  {%- else %}
+    {%- set title = "" %}
+  {%- endif %}
+
+  {%- if config.extra.title_addition and title %}
+    {%- set title_addition = title_separator ~ config.extra.title_addition %}
+  {%- elif config.extra.title_addition %}
+    {%- set title_addition = config.extra.title_addition %}
+  {%- else %}
+    {%- set title_addition = "" %}
+  {%- endif %}
+
+  {%- set description = config.description %}
+
+  {{- macros_head::seo(config=config, title=title, title_addition=title_addition, description=description, is_home=true) }}
+{%- endblock seo %}
+
+
+
+{%- block content %}
+    <div>
+        <h1>{{ section.title }}</h1>
+        <p>{{ section.content | safe }}</p>
+    </div>
+{%- endblock content %}

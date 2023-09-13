@@ -1,9 +1,9 @@
 +++
 title = "🎓 Curriculum vitae"
-description = "Homepage"
-aliases = ["homepage"]
-author = "Gaétan Lepage"
 +++
+<!-- description = "Homepage" -->
+<!-- aliases = ["homepage"] -->
+<!-- author = "Gaétan Lepage" -->
 
 
 **PDF version:** [cv.pdf](/cv_gaetan_lepage.pdf)

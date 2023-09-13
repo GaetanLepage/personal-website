@@ -1,9 +1,9 @@
 +++
 title = "Feedback on Lars' Rust course"
-description = "Free and Open Source Software"
-url = "/feedback_lars_rust_course"
-author = "Gaétan Lepage"
 +++
+<!-- description = "Free and Open Source Software" -->
+<!-- url = "/feedback_lars_rust_course" -->
+<!-- author = "Gaétan Lepage" -->
 
 
 Following [Lars' post on _r/Rust_](https://www.reddit.com/r/rust/comments/yuasso/free_rust_training_to_foss_programmers/)

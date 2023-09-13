@@ -1,9 +1,9 @@
 +++
 title = "⌨️ Software"
-description = "Software"
-aliases = ["software"]
-author = "Gaétan Lepage"
 +++
+<!-- description = "Software" -->
+<!-- aliases = ["software"] -->
+<!-- author = "Gaétan Lepage" -->
 
 
 ### CompFigSep

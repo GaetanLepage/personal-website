@@ -1,9 +1,9 @@
 +++
 title = "🐧 Free and Open Source Software"
-description = "Free and Open Source Software"
-aliases = ["foss"]
-author = "Gaétan Lepage"
 +++
+<!-- description = "Free and Open Source Software" -->
+<!-- aliases = ["foss"] -->
+<!-- author = "Gaétan Lepage" -->
 
 I am deeply convinced that the free and open source philosophy is a relevant and sustainable way of producing software.
 

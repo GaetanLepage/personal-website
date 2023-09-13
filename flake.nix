@@ -1,5 +1,5 @@
 {
-    inputs.nixpkgs.url = github:nixos/nixpkgs/nixos-unstable;
+    inputs.nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
 
     outputs = { self, nixpkgs }:
     let
@@ -8,7 +8,7 @@
 
     in {
         apps.${system} = let
-            generate = "${pkgs.hugo}/bin/hugo";
+            generate = "${pkgs.zola}/bin/zola serve";
 
         in {
             default = {

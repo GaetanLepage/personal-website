@@ -1,9 +1,16 @@
 +++
-title = "About me"
-description = "Homepage"
-aliases = ["homepage"]
-author = "Gaétan Lepage"
+title = "Homepage"
 +++
+<!-- paginate_by = 3 -->
+<!-- +++ -->
+<!-- title = "About me" -->
+<!-- path = "homepage" -->
+<!-- template = "pages.html" -->
+<!-- draft = false -->
+<!-- +++ -->
+<!-- description = "Homepage" -->
+<!-- aliases = ["homepage"] -->
+<!-- author = "Gaétan Lepage" -->
 
 Hi !
 
@@ -29,5 +36,5 @@ I investigate the use of **deep reinforcement learning** to enhance human-robot 
     38334 Montbonnot
 * **office:** H213
 
-{{< figure src="/img/inria_logo.png" height=100 class=alignleft link="https://www.inria.fr/en" >}}
-{{< figure src="/img/robotlearn_logo.png" height=100 class=alignleft link="https://team.inria.fr/robotlearn/">}}
+{{< figure src="img/inria_logo.png" height=100 class=alignleft link="https://www.inria.fr/en" >}}
+{{< figure src="img/robotlearn_logo.png" height=100 class=alignleft link="https://team.inria.fr/robotlearn/">}}

@@ -1,9 +1,9 @@
 +++
 title = "🧑‍🏫 Teaching"
-description = "Teaching"
-aliases = ["teaching"]
-author = "Gaétan Lepage"
 +++
+<!-- description = "Teaching" -->
+<!-- aliases = ["teaching"] -->
+<!-- author = "Gaétan Lepage" -->
 
 
 ### [Ensimag](https://ensimag.grenoble-inp.fr/) 1A (first year engineering students):
