@@ -5,10 +5,20 @@ aliases = ["software"]
 author = "Gaétan Lepage"
 +++
 
+### Nixvim
+_(principal maintainer)_\
+A [nix](https://nixos.org) module to configure Neovim by leveraging
+[nixpkgs](https://github.com/NixOS/nixpkgs).\
+> https://github.com/nix-community/nixvim
+
+### Nixpkgs
+I regularly contribute to [nixpkgs](https://github.com/NixOS/nixpkgs), the nix package repository.\
+I mostly focus on the Python scientific ecosystem.\
+> [List of my contributions](https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+author%3AGaetanLepage+is%3Aclosed)
 
 ### CompFigSep
 Deep learning based **compound figure separator**.\
-https://github.com/GaetanLepage/compound-figure-separator
+> https://github.com/GaetanLepage/compound-figure-separator
 
 ### RemI (Remote Inria)
 **Remote Inria** is a tool I wrote for the researchers at
@@ -16,7 +26,7 @@ https://github.com/GaetanLepage/compound-figure-separator
 It eases the use of the clusters and other computing infrastructures.
 <!-- Unfortunately, this project cannot be shared to people outside from Inria as it might expose
 internal IT organization. -->
-[[Documentation]](https://remote-inria.gitlabpages.inria.fr/)
+> [[Documentation]](https://remote-inria.gitlabpages.inria.fr/)
 [[Code]](https://gitlab.inria.fr/remote-inria/remi)
 
 <!-- ### EnsiBot -->
