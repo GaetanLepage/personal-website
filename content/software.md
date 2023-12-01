@@ -8,16 +8,16 @@ author = "Gaétan Lepage"
 ### Nixvim
 _(principal maintainer)_\
 A [nix](https://nixos.org) module to configure Neovim by leveraging
-[nixpkgs](https://github.com/NixOS/nixpkgs).\
+[nixpkgs](https://github.com/NixOS/nixpkgs).
 > https://github.com/nix-community/nixvim
 
 ### Nixpkgs
 I regularly contribute to [nixpkgs](https://github.com/NixOS/nixpkgs), the nix package repository.\
-I mostly focus on the Python scientific ecosystem.\
+I mostly focus on the Python scientific ecosystem.
 > [List of my contributions](https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+author%3AGaetanLepage+is%3Aclosed)
 
 ### CompFigSep
-Deep learning based **compound figure separator**.\
+Deep learning based **compound figure separator**.
 > https://github.com/GaetanLepage/compound-figure-separator
 
 ### RemI (Remote Inria)
