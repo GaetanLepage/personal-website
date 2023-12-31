@@ -110,8 +110,8 @@ url = "/software"
 weight = 5
 
 [[menu.main]]
-name = "🐧 FOSS"
-url = "/foss"
+name = "🐧 Setup"
+url = "/setup"
 weight = 6
 
 # Social Menu

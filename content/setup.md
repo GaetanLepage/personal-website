@@ -1,7 +1,7 @@
 +++
-title = "🐧 Free and Open Source Software"
-description = "Free and Open Source Software"
-aliases = ["foss"]
+title = "🐧 My software environment"
+description = "My software environment"
+aliases = ["setup"]
 author = "Gaétan Lepage"
 +++
 
