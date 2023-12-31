@@ -11,6 +11,10 @@ A [nix](https://nixos.org) module to configure Neovim by leveraging
 [nixpkgs](https://github.com/NixOS/nixpkgs).
 > https://github.com/nix-community/nixvim
 
+- [Nixvim: Configuring Neovim with the power of Nix](https://neovimconf.live/speakers/gaetan) (NeovimConf 2023)\
+  => Recording available [here](https://odysee.com/@GaetanLepage:6/nixvim-neovim-conf-2023:6) !
+
+
 ### Nixpkgs
 I regularly contribute to [nixpkgs](https://github.com/NixOS/nixpkgs), the nix package repository.\
 I mostly focus on the Python scientific ecosystem.
@@ -19,6 +23,10 @@ I mostly focus on the Python scientific ecosystem.
 ### CompFigSep
 Deep learning based **compound figure separator**.
 > https://github.com/GaetanLepage/compound-figure-separator
+
+### RobotLearn Cluster Monitor
+Web app to visualize the state of our research computing cluster
+> https://gitlab.inria.fr/robotlearn/cluster-monitor
 
 ### RemI (Remote Inria)
 **Remote Inria** is a tool I wrote for the researchers at
