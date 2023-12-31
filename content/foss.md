@@ -5,9 +5,9 @@ aliases = ["foss"]
 author = "Gaétan Lepage"
 +++
 
-I am deeply convinced that the free and open source philosophy is a relevant and sustainable way of producing software.
+Here is the software that I use daily.
 
-I try to use FOSS as much as possible and to rely on proprietary software when I cannot do without it.
+Feel free to check my [dotfiles ❄️](https://github.com/GaetanLepage/dotfiles) !
 
 
 ### Software I use
@@ -25,10 +25,3 @@ I try to use FOSS as much as possible and to rely on proprietary software when I
 | Private messaging             | [Signal](https://www.signal.org) & [Matrix](https://matrix.org)                                                   |
 | Video conferencing            | [Jitsi meet](https://meet.jit.si)                                                                                 |
 | Phone ROM                     | [Graphene OS](https://grapheneos.org)                                                                             |
-
-### Resources
-
-* [Free Software Foundation (FSF)](https://www.fsf.org/)
-* [Go FOSS](https://www.gofoss.today/)
-* [Suckless software](https://suckless.org/philosophy/)
-* [My dotfiles 🔧](https://github.com/GaetanLepage/dotfiles)
