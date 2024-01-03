@@ -11,7 +11,7 @@ A [nix](https://nixos.org) module to configure Neovim by leveraging
 [nixpkgs](https://github.com/NixOS/nixpkgs).
 > https://github.com/nix-community/nixvim
 
-- [Nixvim: Configuring Neovim with the power of Nix](https://neovimconf.live/speakers/gaetan) (NeovimConf 2023)\
+- [Nixvim: Configure Neovim with the power of Nix](https://neovimconf.live/speakers/gaetan) (NeovimConf 2023)\
   => Recording available [here](https://odysee.com/@GaetanLepage:6/nixvim-neovim-conf-2023:6) !
 
 
