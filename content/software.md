@@ -6,7 +6,7 @@ author = "Gaétan Lepage"
 +++
 
 ### Nixvim
-_(principal maintainer)_\
+_(principal maintainer, >700 stars on GitHub)_\
 A [nix](https://nixos.org) module to configure Neovim by leveraging
 [nixpkgs](https://github.com/NixOS/nixpkgs).
 > https://github.com/nix-community/nixvim
