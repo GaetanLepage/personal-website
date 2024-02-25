@@ -7,7 +7,7 @@ author = "Gaétan Lepage"
 
 Here is the software that I use daily.
 
-Feel free to check my [dotfiles ❄️](https://github.com/GaetanLepage/dotfiles) !
+Feel free to check my [dotfiles ❄️](https://github.com/GaetanLepage/nix-config) !
 
 
 ### Software I use
