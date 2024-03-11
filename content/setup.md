@@ -17,7 +17,7 @@ Feel free to check my [dotfiles ❄️](https://github.com/GaetanLepage/nix-conf
 | :---------------------------- | :-----------------------------------------------------------------------------------------------------------------|
 | Linux distribution            | [NixOS](https://nixos.org) (previously [Arch Linux](https://www.archlinux.org))                                   |
 | Web browser                   | [Firefox](https://www.mozilla.org/en-US/firefox/new)                                                              |
-| Window manager                | [Hyprland](https://hyprland.org)                                                                                       |
+| Window manager                | [Sway](https://swaywm.org/)                                                                                       |
 | Code editor                   | [Neovim](https://neovim.io)                                                                                       |
 | PDF viewer                    | [Zathura](https://pwmt.org/projects/zathura)                                                                      |
 | Scientific literature manager | [Zotero](https://www.zotero.org)                                                                                  |
