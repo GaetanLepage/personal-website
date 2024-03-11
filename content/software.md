@@ -5,8 +5,10 @@ aliases = ["software"]
 author = "Gaétan Lepage"
 +++
 
-### Nixvim
-_(core maintainer, >1,000 stars on GitHub)_\
+### Nixvim ❄️
+Core maintainer\
+_>1k stars on GitHub_
+
 A [nix](https://nixos.org) module to configure Neovim by leveraging
 [nixpkgs](https://github.com/NixOS/nixpkgs).
 > https://github.com/nix-community/nixvim
@@ -15,20 +17,20 @@ A [nix](https://nixos.org) module to configure Neovim by leveraging
   => Recording available [here](https://odysee.com/@GaetanLepage:6/nixvim-neovim-conf-2023:6) !
 
 
-### Nixpkgs
+### Nixpkgs ❄️
 I regularly contribute to [nixpkgs](https://github.com/NixOS/nixpkgs), the nix package repository.\
 I mostly focus on the Python scientific ecosystem.
 > [List of my contributions](https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+author%3AGaetanLepage+is%3Aclosed)
 
-### CompFigSep
+### CompFigSep 🐍
 Deep learning based **compound figure separator**.
 > https://github.com/GaetanLepage/compound-figure-separator
 
-### RobotLearn Cluster Monitor
+### RobotLearn Cluster Monitor 🐍
 Web app to visualize the state of our research computing cluster
 > https://gitlab.inria.fr/robotlearn/cluster-monitor
 
-### RemI (Remote Inria)
+### RemI (Remote Inria) 🐍
 **Remote Inria** is a tool I wrote for the researchers at
 [Inria](https://www.inria.fr/en).\
 It eases the use of the clusters and other computing infrastructures.
