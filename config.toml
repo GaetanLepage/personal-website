@@ -7,7 +7,7 @@ theme = "hugo-vitae"
 paginate = 5
 enableRobotsTXT = true
 
-copyright = "Copyright © 2023 Gaétan Lepage | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
+copyright = "Copyright © 2024 Gaétan Lepage | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
 
 pygmentsstyle = "colorful"
 pygmentscodefences = true
