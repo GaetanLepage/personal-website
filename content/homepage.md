@@ -19,6 +19,12 @@ I investigate the use of **deep reinforcement learning** to enhance human-robot 
 * Reinforcement Learning
 * Robotics
 
+### Hobbies
+
+In my free time, [I practice rock climbing](./climbing).
+
+I also [contribute to open source projects](./software) in the [Nix](https://nixos.org/) ecosystem.
+
 ### Contact
 
 * **email:** [gaetan.lepage@inria.fr](mailto:gaetan.lepage@inria.fr)
