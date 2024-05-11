@@ -20,7 +20,7 @@ A [nix](https://nixos.org) module to configure Neovim by leveraging
 ### Nixpkgs ❄️
 I regularly contribute to [nixpkgs](https://github.com/NixOS/nixpkgs), the nix package repository.\
 I mostly focus on the Python scientific ecosystem.
-> [List of my contributions](https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+author%3AGaetanLepage+is%3Aclosed)
+> [List of my contributions](https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+author%3AGaetanLepage+is%3Amerged)
 
 ### CompFigSep 🐍
 Deep learning based **compound figure separator**.
