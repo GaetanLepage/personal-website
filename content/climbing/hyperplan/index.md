@@ -6,7 +6,7 @@ draft = false
 _Hyperplan_ is a high ball that I discovered by chance during a hike.
 It is located near [St Nizier du Moucherotte](https://fr.wikipedia.org/wiki/Saint-Nizier-du-Moucherotte).
 
-This line is in the middle of a ~8m blank wall with barely enough holds to make the climb possible.
+This line is in the middle of a ~8m high blank wall with barely enough holds to make the climb possible.
 
 ---
 <!-- {{< figure src="/img/climbing/hyperplan/face.jpg" height=300 class="pull-left"  >}} -->
