@@ -35,7 +35,7 @@
 
                 rsync -rv --delete \
                   public/ \
-                  server:/var/www/personal_website/
+                  vps:/var/www/personal_website/
               '';
             }
             {
