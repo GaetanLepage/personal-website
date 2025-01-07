@@ -7,43 +7,46 @@
     };
   };
 
-  outputs = inputs @ {flake-parts, ...}:
-    flake-parts.lib.mkFlake {inherit inputs;} {
+  outputs =
+    inputs@{ flake-parts, ... }:
+    flake-parts.lib.mkFlake { inherit inputs; } {
       imports = [
         inputs.devshell.flakeModule
       ];
 
-      systems = ["x86_64-linux"];
+      systems = [ "x86_64-linux" ];
 
-      perSystem = {
-        config,
-        pkgs,
-        ...
-      }: {
-        formatter = pkgs.alejandra;
-        devshells.default = {
-          packages = with pkgs; [
-            hugo
-            rsync
-          ];
+      perSystem =
+        {
+          config,
+          pkgs,
+          ...
+        }:
+        {
+          formatter = pkgs.alejandra;
+          devshells.default = {
+            packages = with pkgs; [
+              hugo
+              rsync
+            ];
 
-          commands = [
-            {
-              name = "deploy";
-              command = ''
-                hugo
+            commands = [
+              {
+                name = "deploy";
+                command = ''
+                  hugo
 
-                rsync -rv --delete \
-                  public/ \
-                  vps:/var/www/personal_website/
-              '';
-            }
-            {
-              name = "serve";
-              command = "hugo serve";
-            }
-          ];
+                  rsync -rv --delete \
+                    public/ \
+                    vps:/var/www/personal_website/
+                '';
+              }
+              {
+                name = "serve";
+                command = "hugo serve";
+              }
+            ];
+          };
         };
-      };
     };
 }
