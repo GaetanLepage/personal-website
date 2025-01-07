@@ -11,16 +11,16 @@ _>1k stars on GitHub_
 
 A [nix](https://nixos.org) module to configure Neovim by leveraging
 [nixpkgs](https://github.com/NixOS/nixpkgs).
-> https://github.com/nix-community/nixvim
-
-- [Nixvim: Configure Neovim with the power of Nix](https://neovimconf.live/speakers/gaetan) (NeovimConf 2023)\
-  => Recording available [here](https://odysee.com/@GaetanLepage:6/nixvim-neovim-conf-2023:6) !
+- [GitHub repository](https://github.com/nix-community/nixvim)
+- My talk at **NeovimConf 2023**: [Nixvim: Configure Neovim with the power of Nix](https://2023.neovimconf.live/speakers/gaetan/)\
+    -> [Recording](https://odysee.com/@GaetanLepage:6/nixvim-neovim-conf-2023:6)
 
 
 ### Nixpkgs ❄️
 I regularly contribute to [nixpkgs](https://github.com/NixOS/nixpkgs), the nix package repository.\
 I mostly focus on the Python scientific ecosystem.
-> [List of my contributions](https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+author%3AGaetanLepage+is%3Amerged)
+- [Packages I maintain](https://repology.org/projects/?maintainer=gaetan@glepage.com&inrepo=nix_unstable)
+- [List of my contributions](https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+author%3AGaetanLepage+is%3Amerged)
 
 ### CompFigSep 🐍
 Deep learning based **compound figure separator**.
