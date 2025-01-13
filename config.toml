@@ -120,10 +120,10 @@ name = "ResearchGate"
 icon = "fab fa-researchgate"
 url = "https://www.researchgate.net/profile/Gaetan_Lepage2"
 
-[[params.social]]
-name = "ORC-ID"
-icon = "fab fa-orcid"
-url = "https://orcid.org/0000-0002-5134-7763"
+# [[params.social]]
+# name = "ORC-ID"
+# icon = "fab fa-orcid"
+# url = "https://orcid.org/0000-0002-5134-7763"
 
 [[params.social]]
 name = "Github"
@@ -144,6 +144,11 @@ url = "https://twitter.com/GaetanLepage_"
 name = "LinkedIn"
 icon = "fab fa-linkedin"
 url = "https://www.linkedin.com/in/ga%C3%A9tan-lepage-63557b74/"
+
+[[params.social]]
+name = "BlueSky"
+icon = "fa-brands fa-bluesky"
+url = "https://bsky.app/profile/glepage.com"
 
 [[params.social]]
 name = "Mastodon"
