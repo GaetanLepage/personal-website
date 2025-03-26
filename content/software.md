@@ -9,7 +9,7 @@ author = "Gaétan Lepage"
 
 A [nix](https://nixos.org) module to configure Neovim by leveraging [nixpkgs](https://github.com/NixOS/nixpkgs).
 
-- _>1k ⭐ on GitHub_
+- _>2k ⭐ on GitHub_
 - _>100k LoC_ (including tests)
 
 I made a talk at **NeovimConf 2023** ([recording](https://www.youtube.com/watch?v=GOe0C7Qtypk), [announcement](https://2023.neovimconf.live/speakers/gaetan/)).
