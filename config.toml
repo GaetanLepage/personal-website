@@ -4,7 +4,6 @@ title = "Gaétan Lepage"
 author = "Gaétan Lepage"
 theme = "hugo-vitae"
 
-paginate = 5
 enableRobotsTXT = true
 
 copyright = "Copyright © 2025 Gaétan Lepage | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
