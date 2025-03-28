@@ -146,7 +146,7 @@ url = "https://www.linkedin.com/in/ga%C3%A9tan-lepage-63557b74/"
 
 [[params.social]]
 name = "BlueSky"
-icon = "fa-brands fa-bluesky"
+icon = "fab fa-bluesky"
 url = "https://bsky.app/profile/glepage.com"
 
 [[params.social]]
