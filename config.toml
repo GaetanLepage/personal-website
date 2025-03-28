@@ -114,10 +114,10 @@ url = "/setup"
 weight = 6
 
 # Social Menu
-[[params.social]]
-name = "ResearchGate"
-icon = "fab fa-researchgate"
-url = "https://www.researchgate.net/profile/Gaetan_Lepage2"
+# [[params.social]]
+# name = "ResearchGate"
+# icon = "fab fa-researchgate"
+# url = "https://www.researchgate.net/profile/Gaetan_Lepage2"
 
 # [[params.social]]
 # name = "ORC-ID"
