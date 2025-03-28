@@ -6,7 +6,7 @@ author = "Gaétan Lepage"
 +++
 
 
-**PDF version:** [cv.pdf](/cv_gaetan_lepage.pdf)
+**PDF version:** [cv.pdf](/cv_GaetanLepage.pdf)
 
 
 ### Education
@@ -67,4 +67,3 @@ I worked on two very interesting topics during this internship :
 * On the one hand I made some R&D work about the potential use of audio signal in social robotics. Indeed, image analysis is the only source of data currently used to infer the user's level of engagement in human-robots interactions. After studying the state-of-the-art I got to develop and integrate some feature extraction tools to enhance the existing solution.
 
 * On the other hand I had the opportunity to get involve in one of the company's customer projects. I developed an interaction engine that managed the interactions with a human-like avatar on a tablet. The product aimed at providing pleasant interactions to elderly. The first real-life tests were very encouraging.
-
