@@ -33,7 +33,7 @@ _Original version:_ [🔗 GitLab](https://gitlab.inria.fr/robotlearn/cluster-mon
 **Remote Inria** is a tool I wrote for the researchers at
 [Inria](https://www.inria.fr/en).\
 It eases the use of the clusters and other computing infrastructures.\
-[🔗 Documentation](https://remote-inria.gitlabpages.inria.fr/)
+[🔗 documentation](https://remote-inria.gitlabpages.inria.fr/), [source code](https://gitlab.inria.fr/remote-inria/remi)
 
 <!-- ### EnsiBot -->
 <!-- Reinforcement learning CSGO (Counter Strike Global Offensive) aimbot.\ -->
