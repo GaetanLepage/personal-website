@@ -18,6 +18,7 @@ I made a talk at **NeovimConf 2023** ([recording](https://www.youtube.com/watch?
 ### [Nixpkgs](https://github.com/NixOS/nixpkgs) ❄️
 I regularly contribute to [nixpkgs](https://github.com/NixOS/nixpkgs), the nix package repository.\
 I mostly focus on the Python scientific ecosystem.
+- [Listen to my interview in the _Full Time Nix_ podcast 🎙️](https://fulltimenix.com/episodes/contributing-to-nixpkgs-nixvim-with-gaetan-lepage)
 - [Packages I maintain](https://repology.org/projects/?maintainer=gaetan@glepage.com&inrepo=nix_unstable) (`protobuf`, `ruff`, `uv`, `dask`, `mujoco`, ...)
 - [List of my contributions](https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+author%3AGaetanLepage+is%3Amerged)
 
