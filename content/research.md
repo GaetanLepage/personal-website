@@ -5,7 +5,7 @@ aliases = ["research"]
 author = "Gaétan Lepage"
 +++
 
-### Deep RL for Human-Robots interactions (Inria Grenoble Alpes)
+### Deep Learning for Acoustics in Robotics (Inria Grenoble Alpes)
 
 I am currently working within the [RobotLearn team](https://team.inria.fr/robotlearn/)
 (former [Perception](https://team.inria.fr/perception/))
