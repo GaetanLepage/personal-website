@@ -23,7 +23,7 @@
           ...
         }:
         {
-          formatter = pkgs.alejandra;
+          formatter = pkgs.nixfmt-tree;
           devshells.default = {
             packages = with pkgs; [
               hugo
