@@ -7,13 +7,14 @@ author = "Gaétan Lepage"
 
 ### Deep Learning for Acoustics in Robotics (Inria Grenoble Alpes)
 
-I am currently working within the [RobotLearn team](https://team.inria.fr/robotlearn/)
+I conducted my PhD within the [RobotLearn team](https://team.inria.fr/robotlearn/)
 (former [Perception](https://team.inria.fr/perception/))
 from [Inria Grenoble](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes).\
-I am doing my PhD under the supervision of [Xavier Alameda-Pineda](http://xavirema.eu/), [Laurent Girin](http://www.gipsa-lab.grenoble-inp.fr/~laurent.girin/) and [Chris Reinke](https://www.scirei.net/).\
-My PhD project is part of the european [SPRING project](https://spring-h2020.eu/).
 
-Learn more about the SPRING project in this [🎙️interview](https://www.francebleu.fr/emissions/la-carte-blanche-a/isere/carte-blanche-iseroise-a-pauline-tardy-galliard-vers-un-veritable-robot-social) (French).
+**Supervisors:** [Xavier Alameda-Pineda](http://xavirema.eu/), [Laurent Girin](http://www.gipsa-lab.grenoble-inp.fr/~laurent.girin/) and [Chris Reinke](https://www.scirei.net/)\
+**Manuscript:** _Coming soon_\
+**Software:** https://gitlab.inria.fr/robotlearn/rl-audio-nav\
+**Funding:** european [SPRING project](https://spring-h2020.eu/) (learn more in this [🎙️interview](https://www.francebleu.fr/emissions/la-carte-blanche-a/isere/carte-blanche-iseroise-a-pauline-tardy-galliard-vers-un-veritable-robot-social) (French))
 ___
 
 ### Compound Figure Separation (HES-SO Valais Wallis)
@@ -22,8 +23,6 @@ ___
 
 I worked under the supervision of Dr. Henning Müller and Dr. Manfredo Atzori (MedGIFT team) on a computer vision problem with medical applications.
 The task is part of the european [ExaMode project](https://www.examode.eu/).
-
-<!--TODO: add photo-->
 
 My goal was to handle the segmentation of compound figures (figures involving multiple sub-figures) from medical publications.
 To achieve this, I investigated deep learning state of the art models and adapted them to this problem.

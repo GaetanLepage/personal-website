@@ -7,17 +7,16 @@ author = "Gaétan Lepage"
 
 Hi !
 
-My name is Gaétan Lepage and I am a Phd student at
+My name is Gaétan Lepage and I recently completed my PhD at
 [Inria Grenoble](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes)
 [RobotLearn team](https://team.inria.fr/robotlearn/)
 (former [Perception](https://team.inria.fr/perception/)).\
-I investigate the use of **deep reinforcement learning** to enhance human-robot interactions.
+I worked on deep learning methods for robot audition.
 
-### Research interests
-
-* Deep Learning
-* Reinforcement Learning
-* Robotics
+I am now looking for job opportunities in the following areas:
+- Using Nix(OS) for deploying software and systems at scale
+- Running and deploying deep learning models efficiently
+- More generally: Robotics, HPC and software engineering
 
 <!-- ### Hobbies -->
 <!---->
@@ -27,13 +26,4 @@ I investigate the use of **deep reinforcement learning** to enhance human-robot 
 
 ### Contact
 
-* **email:** [gaetan.lepage@inria.fr](mailto:gaetan.lepage@inria.fr)
-* **address:**\
-    Gaétan Lepage - RobotLearn\
-    Inria Grenoble Rhône-Alpes\
-    655 Avenue de l’Europe\
-    38334 Montbonnot
-* **office:** H213
-
-{{< figure src="/img/inria_logo.png" height=100 class=alignleft link="https://www.inria.fr/en" >}}
-{{< figure src="/img/robotlearn_logo.png" height=100 class=alignleft link="https://team.inria.fr/robotlearn/">}}
+**email:** [gaetan@glepage.com](mailto:gaetan@glepage.com)
