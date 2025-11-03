@@ -11,7 +11,7 @@ author = "Gaétan Lepage"
 
 ### Education
 
-#### [Oct. 2020 - Jul. 2025] - **PhD Student** (*INRIA - [RobotLearn team](https://team.inria.fr/robotlearn/) [former [Perception](https://team.inria.fr/perception/)]*, Grenoble, FRANCE)
+#### [Oct. 2020 - Jul. 2025] - **PhD** (*INRIA - [RobotLearn team](https://team.inria.fr/robotlearn/) [former [Perception](https://team.inria.fr/perception/)]*, Grenoble, FRANCE)
 
 From Sound to Action: Deep Learning for Audio-Based Localization and Navigation in Robotics.\
 **Supervisors:** [Xavier Alameda-Pineda](http://xavirema.eu/), [Laurent Girin](http://www.gipsa-lab.grenoble-inp.fr/~laurent.girin/) and [Chris Reinke](https://www.scirei.net/)
