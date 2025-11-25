@@ -22,6 +22,16 @@ A [nix](https://nixos.org) module to configure Neovim by leveraging [nixpkgs](ht
 
 I made a talk at **NeovimConf 2023** ([recording](https://www.youtube.com/watch?v=GOe0C7Qtypk), [announcement](https://2023.neovimconf.live/speakers/gaetan/)).
 
+### [Acoustix](https://github.com/GaetanLepage/acoustix) 🐍
+Audio simulation library targeting research in acoustics for robotics.
+It allows to simulate a reverberant acoustic environment where multiple sources and microphones can be modeled.
+
+### [RL Audio Nav](https://gitlab.inria.fr/robotlearn/rl-audio-nav) 🐍
+Code from my PhD project.
+- Built around the [acoustix](https://github.com/GaetanLepage/acoustix) library
+- (Active) Sound Source Localization
+- Deep Reinforcement Learning for Sound-Driven Navigation
+
 ### [CompFigSep](https://github.com/GaetanLepage/compound-figure-separator) 🐍
 Deep learning based **compound figure separator**.
 
