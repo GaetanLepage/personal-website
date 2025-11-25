@@ -12,8 +12,12 @@ I conducted my PhD within the [RobotLearn team](https://team.inria.fr/robotlearn
 from [Inria Grenoble](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes).\
 
 **Supervisors:** [Xavier Alameda-Pineda](http://xavirema.eu/), [Laurent Girin](http://www.gipsa-lab.grenoble-inp.fr/~laurent.girin/) and [Chris Reinke](https://www.scirei.net/)\
-**Manuscript:** _Coming soon_\
-**Software:** https://gitlab.inria.fr/robotlearn/rl-audio-nav\
+**Manuscript:** [PDF](/phd_gaetan_lepage.pdf), [sources](https://github.com/GaetanLepage/phd-manuscript), [theses.fr](https://theses.fr/s253609)\
+**Software:**
+  - [Acoustix: a simulation library for robot acoustics](https://github.com/GaetanLepage/acoustix)
+  - [Experimentation code (SSL, RL, ...)](https://gitlab.inria.fr/robotlearn/rl-audio-nav)
+
+**Defense slides:** [PDF](/phd_slides.pdf), [sources](https://github.com/GaetanLepage/phd_defense_slides)\
 **Funding:** european [SPRING project](https://spring-h2020.eu/) (learn more in this [🎙️interview](https://www.francebleu.fr/emissions/la-carte-blanche-a/isere/carte-blanche-iseroise-a-pauline-tardy-galliard-vers-un-veritable-robot-social) (French))
 ___
 
