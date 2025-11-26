@@ -9,7 +9,7 @@ author = "Gaétan Lepage"
 
 I conducted my PhD within the [RobotLearn team](https://team.inria.fr/robotlearn/)
 (former [Perception](https://team.inria.fr/perception/))
-from [Inria Grenoble](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes).\
+from [Inria Grenoble](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes).
 
 **Supervisors:** [Xavier Alameda-Pineda](http://xavirema.eu/), [Laurent Girin](http://www.gipsa-lab.grenoble-inp.fr/~laurent.girin/) and [Chris Reinke](https://www.scirei.net/)\
 **Manuscript:** [PDF](/phd_gaetan_lepage.pdf), [sources](https://github.com/GaetanLepage/phd-manuscript), [theses.fr](https://theses.fr/s253609)\
