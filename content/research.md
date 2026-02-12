@@ -12,7 +12,7 @@ I conducted my PhD within the [RobotLearn team](https://team.inria.fr/robotlearn
 from [Inria Grenoble](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes).
 
 **Supervisors:** [Xavier Alameda-Pineda](http://xavirema.eu/), [Laurent Girin](http://www.gipsa-lab.grenoble-inp.fr/~laurent.girin/) and [Chris Reinke](https://www.scirei.net/)\
-**Manuscript:** [PDF](/phd_gaetan_lepage.pdf), [sources](https://github.com/GaetanLepage/phd-manuscript), [theses.fr](https://theses.fr/s253609)\
+**Manuscript:** [PDF](/phd_gaetan_lepage.pdf), [sources](https://github.com/GaetanLepage/phd-manuscript), [theses.fr](https://theses.fr/2025GRALM028), [hal.science](https://theses.hal.science/tel-05507206)\
 **Software:**
   - [Acoustix: a simulation library for robot acoustics](https://github.com/GaetanLepage/acoustix)
   - [Experimentation code (SSL, RL, ...)](https://gitlab.inria.fr/robotlearn/rl-audio-nav)
