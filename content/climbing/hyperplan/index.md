@@ -1,6 +1,10 @@
 +++
 title = "Hyperplan"
 draft = false
+
+[build]
+# Keep this page reachable at /climbing/hyperplan/ but out of auto-generated section lists.
+list = "never"
 +++
 
 _Hyperplan_ is a high ball that I discovered by chance during a hike.
