@@ -13,10 +13,10 @@ My name is Gaétan Lepage and I recently completed my PhD at
 (former [Perception](https://team.inria.fr/perception/)).\
 I worked on deep learning methods for robot audition.
 
-I am now looking for job opportunities in the following areas:
-- Using Nix(OS) for deploying software and systems at scale
-- Running and deploying deep learning models efficiently
-- More generally: Robotics, HPC and software engineering
+I am a regular contributor to the [Nix](https://nixos.org/) ecosystem.
+Among other things, I am a member of the [NixOS CUDA team](https://nixos.org/community/teams/cuda/).
+
+See [here](./software) to learn more about my software contributions.
 
 <!-- ### Hobbies -->
 <!---->
