@@ -14,6 +14,7 @@ author = "Gaétan Lepage"
 - 8a+, Espace verticale 3, November 19 2022
 - 8a+, Espace verticale 3, March 15 2024
 - 8a, Espace verticale 3, July 24 2024
+- 8b, Climb Up Gerland, December 21 2025
 
 ## Lead, outdoor
 - [Flight Club](https://www.8a.nu/crags/sportclimbing/france/desert-de-lecureuil/sectors/unknown-sector/routes/flight-club/) (8a+), Desert de l'Ecureuil - Grenoble (May 3 2024)
