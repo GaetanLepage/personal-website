@@ -24,4 +24,10 @@ Feel free to check my [dotfiles ❄️](https://github.com/GaetanLepage/nix-conf
 | Mail client                   | [Thunderbird](https://www.thunderbird.net)                                                                        |
 | Private messaging             | [Signal](https://www.signal.org) & [Matrix](https://matrix.org)                                                   |
 | Video conferencing            | [Jitsi meet](https://meet.jit.si)                                                                                 |
-| Phone ROM                     | [Graphene OS](https://grapheneos.org)                                                                             |
+| Phone ROM                     | [Graphene OS](https://grapheneos.org)                                                             |
+
+---
+<div style="margin-top: 3em;">
+    Member of <a href="https://gskr.ing/">GSKring</a>:<br>
+    <a href="https://gskr.ing/u/gaetan/pred">← Pred</a>, <a href="https://gskr.ing/u/gaetan/succ">Succ →</a>
+</div>

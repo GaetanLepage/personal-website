@@ -16,6 +16,9 @@ googleAnalytics = ""
 
 rssLimit = 15
 
+[markup.goldmark.renderer]
+	unsafe = true
+
 [taxonomies]
 	tag = "tags"
 	category = "categories"
