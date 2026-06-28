@@ -40,7 +40,7 @@
 
                   rsync -rv --delete \
                     public/ \
-                    vps:/var/www/personal_website/
+                    gaetan@vps.glepage.com:/var/www/personal_website/
                 '';
               }
               {
