@@ -19,6 +19,10 @@ Among other things, I am a member of the [NixOS CUDA team](https://nixos.org/com
 
 See [here](./software) to learn more about my software contributions.
 
+---
+
+My Dad is building very cool knives. [Check them out!](https://www.lepage-knives.com/)
+
 <!-- ### Hobbies -->
 <!---->
 <!-- In my free time, [I practice rock climbing](./climbing). -->
